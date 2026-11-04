@@ -1,0 +1,10 @@
+1: LED yandi
+1: LED sondu
+2: LED yandi
+2: LED sondu
+3: LED yandi
+3: LED sondu
+4: LED yandi
+4: LED sondu
+5: LED yandi
+5: LED sondu

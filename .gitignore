@@ -1,0 +1,19 @@
+# Derleme dosyalari
+**/build/
+**/sdkconfig.old
+**/managed_components/
+
+# Yerel gelistirme ortami
+**/.vscode/
+**/.devcontainer/
+**/.clangd
+**/venv/
+**/.venv/
+**/__pycache__/
+
+# Raspberry Pi calistirilabilir dosyalari
+raspberry_pi/led
+raspberry_pi/led_cross
+
+# Capraz derleme kutuphane kopyalari
+sysroot/
